@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f7fc;
+  padding: 20px;
+  color: #333;
+}
+
+.app-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.app-header h1 {
+  color: #4a90e2;
+  margin-bottom: 5px;
+}
+
+.app-header p {
+  color: #666;
+  font-size: 1rem;
+}

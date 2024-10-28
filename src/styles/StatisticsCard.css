@@ -1,0 +1,22 @@
+/* src/components/StatisticsCard.css */
+.stats-card {
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 180px;
+  }
+  
+  .stats-card h3 {
+    color: #4a90e2;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .stats-card p {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  

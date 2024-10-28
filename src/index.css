@@ -1,0 +1,19 @@
+/* src/index.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+}
+
+.stats-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  width: 150px;
+  text-align: center;
+}
